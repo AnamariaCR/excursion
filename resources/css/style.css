@@ -21,8 +21,6 @@ body {
 .header--sub-header {
     font-size: 21px;
     color: grey;
-
-
 }
 
 /* LINKS */
@@ -31,3 +29,13 @@ body {
     font-size: 16px;
     color: aquamarine;
 }
+
+/* FOOTER */
+
+.footer {
+    text-align: right;
+    color: gray;
+    font-size: 16px;
+} 
+
+
